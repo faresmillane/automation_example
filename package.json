@@ -1,0 +1,16 @@
+{
+  "name": "formation_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "fares_millane",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.5",
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "puppeteer": "^2.1.1"
+  }
+}
